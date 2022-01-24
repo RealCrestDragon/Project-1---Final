@@ -1,0 +1,19 @@
+.find_item {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.find_item:hover {
+    background-color: #ccc;
+}
+
+.find_item_name {
+    text-decoration: none;
+}
+
+.find_item_img {
+    width: 50px;
+    margin-right: 0px,
+}
